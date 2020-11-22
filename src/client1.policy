@@ -1,0 +1,3 @@
+grant codeBase "file:VOTRE_URL" {
+    permission java.security.AllPermission;
+};
